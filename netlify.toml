@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/cartao.html"
+status = 200
